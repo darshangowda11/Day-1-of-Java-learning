@@ -16,7 +16,7 @@ public class Operators {
         System.out.println(f);
 
         //ternery operator
-        String h= (a>b)? "darshan" : "raj";
+        String h= (a>b)? "darshann" : "raj";
         System.out.println(h);
 
     }
